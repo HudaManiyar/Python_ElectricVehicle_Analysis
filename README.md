@@ -48,9 +48,11 @@ Conducted In Depth Exploratory Data Analysis Including Data Cleaning, Univariate
 - Data Analysis 
     - Univariate & Bivariate
     - Choropleth (Plotly)
-      **[Electric Vehicles Choropleth](electric_vehicles_choropleth.gif)**
-    - Racing Bar Plot (Plotly)
-       **[Electric Vehicles Racing Bar Plot](ev_makes_race.gif)**
+
+      **![Electric Vehicles Choropleth](electric_vehicles_choropleth.gif)**
+    - Racing Bar Plot 
+
+      **![Electric Vehicles Racing Bar Plot](ev_makes_race.gif)**
 <br />
 
 **Conclusion**
