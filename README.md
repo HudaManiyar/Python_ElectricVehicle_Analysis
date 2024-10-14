@@ -48,16 +48,23 @@ Conducted In Depth Exploratory Data Analysis Including Data Cleaning, Univariate
 - Data Analysis 
     - Univariate & Bivariate
     - Choropleth (Plotly)
+      **[Electric Vehicles Choropleth](electric_vehicles_choropleth.gif)**
     - Racing Bar Plot (Plotly)
+       **[Electric Vehicles Racing Bar Plot](ev_makes_race.gif)**
 <br />
 
 **Conclusion**
 
-KEY INSIGHTS
+Key Insights on:
+- Recent Trends in Electric Vehicles
+- Dominance of Tesla
+- Range and Pricing Characteristics
+- Electric Utility Providers
+- Diversity in EV Types and Features
 
 ---
 <br />
 
-Please check out the **[Full Report]** for Further Explanation!<br />
+Please check out the **[Full Report](ElectricVehicles_Analysis.pdf)** for Further Explanation!<br />
 \
 Your Thoughts and Feedback are highly appreciated! :smile:<br />
